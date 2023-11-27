@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<group nameCat="kot">
+    <cat ID="1">
+        <name>Муся</name>
+        <semeistvo>Кошачьи</semeistvo>
+        <poroda>Нет</poroda>
+        <pol>С</pol>
+        <age>5</age>
+    </cat>
+    <cat ID="1">
+        <name>Бобик</name>
+        <semeistvo>Псовые</semeistvo>
+        <poroda>Нет</poroda>
+        <pol>М</pol>
+        <age>7</age>
+    </cat>
+    <cat ID="1">
+        <name>Кеша</name>
+        <semeistvo>Попугаевые</semeistvo>
+        <poroda>Какаду</poroda>
+        <pol>М</pol>
+        <age>2</age>
+    </cat>
+    <cat ID="1">
+        <name>Маша</name>
+        <semeistvo>Игуановые</semeistvo>
+        <poroda>Зеленая</poroda>
+        <pol>С</pol>
+        <age>1</age>
+    </cat>
+    <cat ID="1">
+        <ID/>
+        <name>Маша</name>
+        <semeistvo>Игуановые</semeistvo>
+        <poroda>Зеленая</poroda>
+        <pol>С</pol>
+        <age>1</age>
+    </cat>
+</group>
